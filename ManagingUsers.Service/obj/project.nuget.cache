@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rgUF5lotAavZ1fKTnzbhmK7qRUR3UuDFyoqA1sHlgPvhZftf9ssn5NZY/OEeYYufNlmw8C4gUCDx7G0j+B2PQA==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\ManagingUsers\\ManagingUsers\\ManagingUsers.Service\\ManagingUsers.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gilmax\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\Gilmax\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Projetos\ManagingUsers\ManagingUsers\ManagingUsers.Service\bin\Debug\net5.0\ManagingUsers.Service.deps.json
+C:\Projetos\ManagingUsers\ManagingUsers\ManagingUsers.Service\bin\Debug\net5.0\ManagingUsers.Service.dll
+C:\Projetos\ManagingUsers\ManagingUsers\ManagingUsers.Service\bin\Debug\net5.0\ref\ManagingUsers.Service.dll
+C:\Projetos\ManagingUsers\ManagingUsers\ManagingUsers.Service\bin\Debug\net5.0\ManagingUsers.Service.pdb
+C:\Projetos\ManagingUsers\ManagingUsers\ManagingUsers.Service\bin\Debug\net5.0\ManagingUsers.Domain.dll
+C:\Projetos\ManagingUsers\ManagingUsers\ManagingUsers.Service\bin\Debug\net5.0\ManagingUsers.Domain.pdb
+C:\Projetos\ManagingUsers\ManagingUsers\ManagingUsers.Service\obj\Debug\net5.0\ManagingUsers.Service.csproj.AssemblyReference.cache
+C:\Projetos\ManagingUsers\ManagingUsers\ManagingUsers.Service\obj\Debug\net5.0\ManagingUsers.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ManagingUsers\ManagingUsers\ManagingUsers.Service\obj\Debug\net5.0\ManagingUsers.Service.AssemblyInfoInputs.cache
+C:\Projetos\ManagingUsers\ManagingUsers\ManagingUsers.Service\obj\Debug\net5.0\ManagingUsers.Service.AssemblyInfo.cs
+C:\Projetos\ManagingUsers\ManagingUsers\ManagingUsers.Service\obj\Debug\net5.0\ManagingUsers.Service.csproj.CoreCompileInputs.cache
+C:\Projetos\ManagingUsers\ManagingUsers\ManagingUsers.Service\obj\Debug\net5.0\ManagingUsers.Service.csproj.CopyComplete
+C:\Projetos\ManagingUsers\ManagingUsers\ManagingUsers.Service\obj\Debug\net5.0\ManagingUsers.Service.dll
+C:\Projetos\ManagingUsers\ManagingUsers\ManagingUsers.Service\obj\Debug\net5.0\ref\ManagingUsers.Service.dll
+C:\Projetos\ManagingUsers\ManagingUsers\ManagingUsers.Service\obj\Debug\net5.0\ManagingUsers.Service.pdb

@@ -1,0 +1,12 @@
+C:\Projetos\ManagingUsers\ManagingUsers\ManagingUsers.DTO\bin\Debug\net5.0\ManagingUsers.DTO.deps.json
+C:\Projetos\ManagingUsers\ManagingUsers\ManagingUsers.DTO\bin\Debug\net5.0\ManagingUsers.DTO.dll
+C:\Projetos\ManagingUsers\ManagingUsers\ManagingUsers.DTO\bin\Debug\net5.0\ref\ManagingUsers.DTO.dll
+C:\Projetos\ManagingUsers\ManagingUsers\ManagingUsers.DTO\bin\Debug\net5.0\ManagingUsers.DTO.pdb
+C:\Projetos\ManagingUsers\ManagingUsers\ManagingUsers.DTO\obj\Debug\net5.0\ManagingUsers.DTO.csproj.AssemblyReference.cache
+C:\Projetos\ManagingUsers\ManagingUsers\ManagingUsers.DTO\obj\Debug\net5.0\ManagingUsers.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ManagingUsers\ManagingUsers\ManagingUsers.DTO\obj\Debug\net5.0\ManagingUsers.DTO.AssemblyInfoInputs.cache
+C:\Projetos\ManagingUsers\ManagingUsers\ManagingUsers.DTO\obj\Debug\net5.0\ManagingUsers.DTO.AssemblyInfo.cs
+C:\Projetos\ManagingUsers\ManagingUsers\ManagingUsers.DTO\obj\Debug\net5.0\ManagingUsers.DTO.csproj.CoreCompileInputs.cache
+C:\Projetos\ManagingUsers\ManagingUsers\ManagingUsers.DTO\obj\Debug\net5.0\ManagingUsers.DTO.dll
+C:\Projetos\ManagingUsers\ManagingUsers\ManagingUsers.DTO\obj\Debug\net5.0\ref\ManagingUsers.DTO.dll
+C:\Projetos\ManagingUsers\ManagingUsers\ManagingUsers.DTO\obj\Debug\net5.0\ManagingUsers.DTO.pdb
